@@ -12,7 +12,7 @@ The Repository contains all the learning resources, notes, hands-on project and 
 5. Tailwind
 6. React (vite)
 7. Redux toolkit (state management)
+8. TypeScript
 
 ## Currently learning:
-### TypeScript
-### TypeScript + React
+### NodeJs
