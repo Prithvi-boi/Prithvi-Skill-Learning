@@ -1,0 +1,14 @@
+
+    name: Dragon Ball z 
+
+    author: Akira Toriyama 
+
+    year: 1975 
+
+    movies: Dragon Ball super broly 
+
+    arc: Cell saga 
+
+    fan favorite: Goku 
+
+series: Dragon ball super beerus
